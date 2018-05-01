@@ -2,7 +2,7 @@
 
 Final Writeup
 
-As of this submission there is no github pages link. I dont know why but its giving me an error: "Your site is having problems building: The variable {{a} on line 50 in node_modules/balanced-match/README.md was not properly closed with }}. For more information, see https://help.github.com/articles/page-build-failed-tag-not-properly-terminated/." So I'm going to work on that for presentation day.
+I made a second repo with identical code but redoing the npm build and modules which somehow fixed the live pages compilation. Github Pages link: https://gaberobinson-barr.github.io/CIS-566-final/
 
 
 Summary
